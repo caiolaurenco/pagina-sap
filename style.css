@@ -1,0 +1,19 @@
+.navbar{
+    background-color: silver;
+    margin: 0px;
+    padding: 0px;
+}
+
+.navbar h1{
+    margin: 10px;
+    border: 5px;
+    padding: 5px;
+}
+
+.barraamarela{
+   background-color: yellow;
+}
+
+.botoesprincipais{
+    margin: 5px;
+}
