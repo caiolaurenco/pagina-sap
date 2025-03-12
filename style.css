@@ -1,19 +1,50 @@
-.navbar{
+#navbar{
     background-color: silver;
     margin: 0px;
     padding: 0px;
 }
 
-.navbar h1{
+#navbar h1{
     margin: 10px;
     border: 5px;
     padding: 5px;
 }
 
-.barraamarela{
-   background-color: yellow;
+#barraamarela{ 
+        background: repeating-linear-gradient(
+        135deg,
+        #deee04,
+        #deee04 10px,
+        #d4d107 5px,
+        #d4d107 20px
+        );
+        
+        width: auto;
+        height: 15px;
+        
+        }
+    
+#botaoesquerda{
+    border: 1px solid;
+    width: 418px;
+
 }
 
-.botoesprincipais{
-    margin: 5px;
+table{
+    border: 1px solid;
 }
+
+tr{
+    border: 1px solid;
+}
+
+th{
+    border: 1px solid;
+}
+
+td{
+    border: 1px solid;
+}
+
+
+
